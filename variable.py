@@ -1,2 +1,2 @@
 score = 500
-score*3
+print (score*3)
