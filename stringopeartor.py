@@ -11,4 +11,4 @@ print("ha"*19)
 
 
 price = "9"
-print (tota = price * 5)
+print ("total=", price * 5)
