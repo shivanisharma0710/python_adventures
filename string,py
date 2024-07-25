@@ -1,0 +1,3 @@
+msg = "hello!" * 99
+print(msg)
+print("THIS IS PRINTED!!!!!******************")
